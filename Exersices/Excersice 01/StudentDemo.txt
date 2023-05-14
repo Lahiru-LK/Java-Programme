@@ -1,0 +1,7 @@
+public class StudentDemo{
+	public static void main(String[]args){
+		Student S = new Student();
+		S.myMethod();
+		
+	}		
+} 
