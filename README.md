@@ -4,6 +4,7 @@ A Java program is a set of instructions written in the Java programming language
 
 Java programs can be used to create a wide variety of applications, including:
 
+
 Web applications
 Desktop applications
 Mobile applications
